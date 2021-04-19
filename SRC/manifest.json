@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Twitch ID finder v1",
+  "version": "1.0.0",
+  "description": "This is a simple extension that will allow you to grab the twitch user ID via username !",
+  "icons": {
+    "192": "icon-192x192.png",
+    "256": "icon-256x256.png"
+  },
+  "action": {
+    "default_icon": "icon-192x192.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}

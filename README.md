@@ -12,6 +12,7 @@ Once a channel has been entered the information will be displayed in the pop-up 
 + Append information on twitch page
 + Display more information (follower count ect)
 + Maybe make a 'settings page' to allow custom client-IDs
++ Create settings page to config options
 ```
 
 ```
